@@ -6,3 +6,8 @@ This project implements a convolutional neural network (CNN) to classify glaucom
 
 ### Project Structure
 
+```
+├── dataset/                  # Image dataset (structured by class folders)
+├── notebooks/                # Jupyter notebooks for training and evaluation
+└── README.md
+```
